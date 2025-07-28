@@ -38,9 +38,9 @@ The gradual decline by 7% in the year 2024 and 6% in 2025 regarding how leadersh
 Learning and development
 The reduction of 2% in 2024 and  3% in 2025 based on L&D Participation rate could have contributed to the top reason of employee exit which is lack of career development,the employees no longer feel they are not progressing within the organization.
 
-5.  Appreciation and appraisal
+Appreciation and appraisal
 The decline in how employees believe performance management is fair by 8% in 2024 and 6% in 2025,contributes to the reason for employees exit,they perceived bias in performance appraisal.
 
-6. Disc Personality Composition
+Disc Personality Composition
 Steadiness has the highest percentage of 35%,followed by dominance which is 30%,this indicates the company has a team-oriented culture,a strong emphasis on achieving results and its leaders prioritise quick decision making. However, the conscientiousness of 15% and Influence of 20% shows that employees lack attention to detail and accuracy,they are slow to innovation and resist change,a possible reason for the decline In L&D Participation rate. Additionally, communication gaps too could have contributed to decline highlighting why the leaders can’t communicate the company’s vision clearly.
 
