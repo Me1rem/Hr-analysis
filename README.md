@@ -19,8 +19,11 @@ Dashboard Interaction <a href="https://github.com/Me1rem/Hr-analysis/blob/main/C
 The dataset contained 4 tables namely the
 
 Performance metrics (2023-2025)
+
 Employee engagement survey result(2023-2025)
+
 Disc personality assessment data(2025 snapshot)
+
 Exit interview themes(top 3 reasons for living)
 
 The data was extracted from the pdf and loaded into power query, it was transformed,merged and modelled ,then analysis was carried out in Power BI by incorporating DAX measures, filtering, bookmarks etc. The wireframe was designed on Powerpoint.
