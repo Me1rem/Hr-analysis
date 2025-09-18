@@ -5,10 +5,14 @@ The aim of this study is to analyze and understand why an organization performan
 <a href="https://github.com/Me1rem/Hr-analysis/blob/main/Crosstie_Case%20Study_People%20and%20Culture%20Analyst.pdf">Dataset</a>
 ## Questions kpis
 1.Do employees who receive regular feedback better understand their roles?
+
 2. Does clear vision drive employees connection to the company’s vision?
-3. What drove employees to leave in 2025?
+3. 
+4. What drove employees to leave in 2025?
+5. 
 4.How did DISC type shape our workforce composition in 2025?
-5.What was the impact of employee turnover on our company’s revenue growt
+
+5.What was the impact of employee turnover on our company’s revenue growth?
 
 Dashboard Interaction <a href="https://github.com/Me1rem/Hr-analysis/blob/main/Crostie%20solutions%20analysis_Onwupelu%20miracle.pbix">View Dashboad</a>
 ## Process
