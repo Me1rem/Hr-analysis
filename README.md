@@ -6,10 +6,10 @@ The aim of this study is to analyze and understand why an organization performan
 ## Questions kpis
 1.Do employees who receive regular feedback better understand their roles?
 
-2. Does clear vision drive employees connection to the company’s vision?
-3. 
-4. What drove employees to leave in 2025?
-5. 
+2.Does clear vision drive employees connection to the company’s vision?
+ 
+3.What drove employees to leave in 2025?
+ 
 4.How did DISC type shape our workforce composition in 2025?
 
 5.What was the impact of employee turnover on our company’s revenue growth?
